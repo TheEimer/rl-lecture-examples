@@ -13,8 +13,9 @@ During the semester, the demonstrations and examples accompanying the RL lecture
 
 ## WIP: list of example envs
 1. Mars Rover: moves left and right, could be extended to stay. W2, maybe also W3
-2.  
-3.
+2. Cart Pole: a slight change of pace for W4 and 5, maybe even 6 so they can see a difference 
+3. Continuous Mountain Car: a classic and a continuous env for a change. Maybe later with DL?
+4. A two player game so that we can do a christmas challenge
 
 ## WIP: list of stuff that students should have implemented at the end of the course
 - policy & value iteration
