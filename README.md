@@ -16,11 +16,12 @@ During the semester, the demonstrations and examples accompanying the RL lecture
 2. Cart Pole: a slight change of pace for W4 and 5, maybe even 6 so they can see a difference 
 3. Continuous Mountain Car: a classic and a continuous env for a change. Maybe later with DL?
 4. A two player game so that we can do a christmas challenge
+5. Maybe something with MDP playgorund?
 
 ## WIP: list of stuff that students should have implemented at the end of the course
 - policy & value iteration
 - tabular SARSA & Q-Learning
 - DQN from "scratch" in pytorch/tensorflow
-- something using the OpenAI gym interface, so maybe their own env at some point?
+- something using the OpenAI gym interface, so maybe their own env at some point? MDP playground
 - at least epsilon greedy exploration, ideally more involved exploration
 
